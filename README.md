@@ -32,8 +32,6 @@ Technology Which I Used
 
  ## Step to Start Project
  
-
- 
 **For Backend**
  1. `cd e-comerce-backend`
  2. `npm i`
@@ -46,9 +44,5 @@ Technology Which I Used
  2. `npm i`
  3. `npm run start`
 
- - If you want to contribute this project then **feel free to make pull request** i love to merge your request
- - If You have suggestion or want new feature the feel free to **create an issue with label features**.
 
-
-#### If you like project then feel free to give Star 😅
 
